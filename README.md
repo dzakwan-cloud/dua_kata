@@ -1,2 +1,2 @@
 # dua_kata
-apa yang ingin dibuat, 
+simple, ini adalah project shooter saya
